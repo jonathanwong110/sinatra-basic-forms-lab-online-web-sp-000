@@ -1,5 +1,5 @@
 class Puppy
   
-  attr_reader :name, :breed
+  attr_accessor :name, :breed
   
 end
